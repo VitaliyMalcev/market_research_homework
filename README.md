@@ -1,4 +1,4 @@
-# market_research_homework
+# market_research_task
 
 Исходные данные:
 Дата сет для проведения исследования нужно скачать по ссылке (0,1 Gb).
